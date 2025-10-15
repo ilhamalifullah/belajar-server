@@ -1,0 +1,13 @@
+{
+  "name": "password-account-management",
+  "version": "1.0.0",
+  "description": "Tugas hashing dan verifikasi",
+  "main": "hash.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node hash.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
